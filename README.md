@@ -6,3 +6,6 @@ Program *publisher* ini akan mengirimkan sebanyak 5 data *event* ke *message bro
 
 **b. The url of: "amqp://guest:guest@localhost:5672" is the same as in the subscriber program, what does it mean?**
 Kesamaan URL ini berarti program *publisher* dan *subscriber* terhubung ke *instance Message Broker* (RabbitMQ) yang sama persis. *Publisher* akan mempublikasikan *event/message* ke *broker* di alamat tersebut, dan *subscriber* akan "mendengarkan" (listen) dan mengambil *message* dari antrean (queue) pada *broker* di alamat yang sama agar komunikasi data antara dua program yang terpisah ini dapat terjadi.
+
+## Tampilan Dashboard Awal RabbitMQ
+![Dashboard Awal RabbitMQ](images/image1.png)
