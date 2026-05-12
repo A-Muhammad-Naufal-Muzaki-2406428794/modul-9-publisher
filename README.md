@@ -9,3 +9,5 @@ Kesamaan URL ini berarti program *publisher* dan *subscriber* terhubung ke *inst
 
 ## Tampilan Dashboard Awal RabbitMQ
 ![Dashboard Awal RabbitMQ](images/image1.png)
+
+![Sending and Processing Event](images/image2.png)

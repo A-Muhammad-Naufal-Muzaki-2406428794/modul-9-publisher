@@ -8,4 +8,5 @@ crosstown_bus = "0.5.0"
 futures = "0.3"
 borsh = "0.9.3"
 borsh-derive = "0.9.1"
-tokio = {version="1.21.2", features=["full"]}
+tokio = { version = "1.21.2", features = ["full"] }
+indexmap = { version = "=1.9.3", features = ["std"] }

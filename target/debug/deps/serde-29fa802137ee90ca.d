@@ -1,0 +1,14 @@
+/mnt/c/Users/Asus/New Journey/Advprog/software-architectures/publisher/target/debug/deps/serde-29fa802137ee90ca.d: /home/asus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/asus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/asus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/asus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/asus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /mnt/c/Users/Asus/New\ Journey/Advprog/software-architectures/publisher/target/debug/build/serde-be62b92d4562b0f4/out/private.rs
+
+/mnt/c/Users/Asus/New Journey/Advprog/software-architectures/publisher/target/debug/deps/libserde-29fa802137ee90ca.rlib: /home/asus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/asus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/asus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/asus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/asus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /mnt/c/Users/Asus/New\ Journey/Advprog/software-architectures/publisher/target/debug/build/serde-be62b92d4562b0f4/out/private.rs
+
+/mnt/c/Users/Asus/New Journey/Advprog/software-architectures/publisher/target/debug/deps/libserde-29fa802137ee90ca.rmeta: /home/asus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/asus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/asus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/asus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/asus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /mnt/c/Users/Asus/New\ Journey/Advprog/software-architectures/publisher/target/debug/build/serde-be62b92d4562b0f4/out/private.rs
+
+/home/asus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/asus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/asus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/asus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/asus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/mnt/c/Users/Asus/New\ Journey/Advprog/software-architectures/publisher/target/debug/build/serde-be62b92d4562b0f4/out/private.rs:
+
+# env-dep:OUT_DIR=/mnt/c/Users/Asus/New Journey/Advprog/software-architectures/publisher/target/debug/build/serde-be62b92d4562b0f4/out
